@@ -1,0 +1,39 @@
+"""
+Example Jupyter Notebook Template
+Exploratory Data Analysis for AI Job Salary Prediction
+"""
+
+# This is a template showing how to structure your Jupyter notebooks
+# Copy this and adapt for your specific analysis
+
+print("""
+=== NOTEBOOK OUTLINE ===
+
+1. IMPORTS AND SETUP
+   - Import necessary libraries
+   - Set up visualization parameters
+   
+2. LOAD DATA
+   - Load raw dataset
+   - Display basic information
+   
+3. EXPLORATORY DATA ANALYSIS
+   - Statistical summaries
+   - Data distributions
+   - Correlations
+   
+4. DATA CLEANING
+   - Handle missing values
+   - Check for duplicates
+   - Data quality assessment
+   
+5. FEATURE ANALYSIS
+   - Univariate analysis
+   - Bivariate analysis
+   - Feature distributions
+   
+6. INSIGHTS AND FINDINGS
+   - Key discoveries
+   - Data patterns
+   - Recommendations
+''')
